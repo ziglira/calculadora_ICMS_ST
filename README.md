@@ -1,2 +1,2 @@
-# calculadora_ICMS_ST
+# Calculadora ICMS ST
  Apurar icms sujeito a substituição tributária
